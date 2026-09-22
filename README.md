@@ -12,34 +12,9 @@ The same robot set is rendered in both environments at **1024 × 1024** resoluti
 - `side.png`
 - `top.png`
 
-The paired renders support sim-to-sim visual comparison and retrieval experiments across simulation pipelines.
-
-## Repository layout
-
-```text
-repo/
-├── README.md
-├── mujoco/
-│   └── images/
-│       └── ...
-└── pybullet/
-    └── images/
-        └── ...
-```
-
 The directory hierarchy below `mujoco/images/` and `pybullet/images/` is identical, so corresponding robot renders can be matched by relative path.
 
-## Dataset summary
-
-| Item | Value |
-|---|---:|
-| Paired manipulators | 131 |
-| Renderers | 2 |
-| Views per robot per renderer | 4 |
-| Image resolution | 1024 × 1024 |
-| Total paired render images | 1048 |
-
-## Source composition
+### Source composition
 
 | Source | Count |
 |---|---:|
@@ -50,29 +25,15 @@ The directory hierarchy below `mujoco/images/` and `pybullet/images/` is identic
 | Others | 10 |
 | **Total** | **131** |
 
-`Others` combines the smaller source groups stored under `random/` and `oems/`.
 
 ## Gallery
 
 # Combined Manipulator Render Gallery
 
-This gallery pairs the same 131 fixed-base manipulator URDF bundles rendered in **MuJoCo** and **PyBullet TinyRenderer**.
-
-Assumed repository layout:
-
-```text
-repo/
-├── README.md
-├── GALLERY.md
-├── mujoco/
-│   └── images/
-└── pybullet/
-    └── images/
-```
 
 Each robot is shown using the isometric render. Click either image for the full-size file.  
 The `front`, `side`, and `top` links are also provided for both renderers.
-Robot names in the first column follow the naming used in the original [URDF Files Dataset](https://github.com/Daniella1/urdf_files_dataset); click a robot name to open its corresponding source URDF.
+Robot names in the first column follow the naming used in the original **URDF Files Dataset** by **Daniella Tola**: https://github.com/Daniella1/urdf_files_dataset/; <br>click a robot name to open its corresponding source URDF.
 
 | Name | Source | Manufacturer | MuJoCo | PyBullet |
 |---|---|---|---|---|
