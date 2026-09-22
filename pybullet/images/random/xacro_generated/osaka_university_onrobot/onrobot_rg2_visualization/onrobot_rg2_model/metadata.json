@@ -1,0 +1,100 @@
+{
+  "robot_id": "random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/onrobot_rg2_model",
+  "urdf_path": "random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/urdf/onrobot_rg2_model.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/urdf/onrobot_rg2_model.urdf",
+  "output_dir": "images/random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/onrobot_rg2_model",
+  "status": "ok",
+  "error": null,
+  "simulator": "PyBullet",
+  "renderer": "TinyRenderer",
+  "image_size": 1024,
+  "views": {
+    "iso": "images/random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/onrobot_rg2_model/iso.png",
+    "front": "images/random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/onrobot_rg2_model/front.png",
+    "side": "images/random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/onrobot_rg2_model/side.png",
+    "top": "images/random/xacro_generated/osaka_university_onrobot/onrobot_rg2_visualization/onrobot_rg2_model/top.png"
+  },
+  "num_links": 7,
+  "num_joints": 7,
+  "num_movable_joints": 6,
+  "num_fixed_joints": 0,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 14,
+  "meshes_missing": 0,
+  "missing_meshes": [],
+  "extension_tags_removed": 1,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\base_link.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\base_link.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/outer_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\outer_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/outer_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\outer_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/inner_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\inner_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/inner_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\inner_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/inner_finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\inner_finger.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/inner_finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\inner_finger.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/outer_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\outer_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/outer_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\outer_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/inner_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\inner_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/inner_knuckle.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\inner_knuckle.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/visual/inner_finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\visual\\inner_finger.stl"
+    },
+    {
+      "filename": "package://onrobot_rg2_visualization/meshes/collision/inner_finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\osaka_university_onrobot\\onrobot_rg2_visualization\\meshes\\collision\\inner_finger.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

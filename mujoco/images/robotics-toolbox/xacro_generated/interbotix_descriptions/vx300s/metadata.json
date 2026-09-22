@@ -1,0 +1,136 @@
+{
+  "robot_id": "robotics-toolbox/xacro_generated/interbotix_descriptions/vx300s",
+  "urdf_path": "robotics-toolbox/xacro_generated/interbotix_descriptions/urdf/vx300s.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/robotics-toolbox/xacro_generated/interbotix_descriptions/urdf/vx300s.urdf",
+  "output_dir": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/vx300s",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/vx300s/iso.png",
+    "front": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/vx300s/front.png",
+    "side": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/vx300s/side.png",
+    "top": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/vx300s/top.png"
+  },
+  "num_links": 14,
+  "num_joints": 22,
+  "num_movable_joints": 9,
+  "num_fixed_joints": 4,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 22,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-1-Base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-1-Base.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-1-Base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-1-Base.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-2-Shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-2-Shoulder.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-2-Shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-2-Shoulder.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-3-UA.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-3-UA.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-3-UA.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-3-UA.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-4-UF.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-4-UF.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-4-UF.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-4-UF.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-5-LF.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-5-LF.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-5-LF.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-5-LF.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-6-Wrist.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-6-Wrist.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-6-Wrist.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-6-Wrist.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-7-Gripper.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-7-Gripper.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-7-Gripper.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-7-Gripper.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-8-Gripper-Prop.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-8-Gripper-Prop.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-8-Gripper-Prop.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-8-Gripper-Prop.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-9-Gripper-Bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-9-Gripper-Bar.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-9-Gripper-Bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-9-Gripper-Bar.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-10-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-10-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-10-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-10-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-10-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-10-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_vx300s/VXSA-300-M-10-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_vx300s\\VXSA-300-M-10-Finger.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

@@ -1,0 +1,156 @@
+{
+  "robot_id": "ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/m900ib700",
+  "urdf_path": "ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/urdf/m900ib700.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/urdf/m900ib700.urdf",
+  "output_dir": "images/ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/m900ib700",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/m900ib700/iso.png",
+    "front": "images/ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/m900ib700/front.png",
+    "side": "images/ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/m900ib700/side.png",
+    "top": "images/ros-industrial/xacro_generated/fanuc/fanuc_m900ib_support/m900ib700/top.png"
+  },
+  "num_links": 16,
+  "num_joints": 15,
+  "num_movable_joints": 12,
+  "num_fixed_joints": 3,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 26,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\base_link.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\base_link.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\link_1.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\link_1.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\link_2.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\link_2.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\link_3.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\link_3.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\link_4.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\link_4.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\link_5.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\link_5.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\link_6.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\link_6.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/counterweight.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\counterweight.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/counterweight.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\counterweight.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\bar.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\bar.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/balancer.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\balancer.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/balancer.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\balancer.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/piston.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\piston.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/piston.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\piston.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/balancer.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\balancer.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/balancer.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\balancer.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/visual/piston.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\visual\\piston.stl"
+    },
+    {
+      "filename": "package://fanuc_m900ib_support/meshes/m900ib700/collision/piston.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_m900ib_support\\meshes\\m900ib700\\collision\\piston.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

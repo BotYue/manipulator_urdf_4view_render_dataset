@@ -1,0 +1,100 @@
+{
+  "robot_id": "ros-industrial/abb/abb_irb2400_support/irb2400",
+  "urdf_path": "ros-industrial/abb/abb_irb2400_support/urdf/irb2400.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/ros-industrial/abb/abb_irb2400_support/urdf/irb2400.urdf",
+  "output_dir": "images/ros-industrial/abb/abb_irb2400_support/irb2400",
+  "status": "ok",
+  "error": null,
+  "simulator": "PyBullet",
+  "renderer": "TinyRenderer",
+  "image_size": 1024,
+  "views": {
+    "iso": "images/ros-industrial/abb/abb_irb2400_support/irb2400/iso.png",
+    "front": "images/ros-industrial/abb/abb_irb2400_support/irb2400/front.png",
+    "side": "images/ros-industrial/abb/abb_irb2400_support/irb2400/side.png",
+    "top": "images/ros-industrial/abb/abb_irb2400_support/irb2400/top.png"
+  },
+  "num_links": 9,
+  "num_joints": 8,
+  "num_movable_joints": 6,
+  "num_fixed_joints": 2,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 14,
+  "meshes_missing": 0,
+  "missing_meshes": [],
+  "extension_tags_removed": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "visual/base_link.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\base_link.dae"
+    },
+    {
+      "filename": "collision/base_link.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\base_link.stl"
+    },
+    {
+      "filename": "visual/link_1.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\link_1.dae"
+    },
+    {
+      "filename": "collision/link_1.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\link_1.stl"
+    },
+    {
+      "filename": "visual/link_2.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\link_2.dae"
+    },
+    {
+      "filename": "collision/link_2_whole.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\link_2_whole.stl"
+    },
+    {
+      "filename": "visual/link_3.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\link_3.dae"
+    },
+    {
+      "filename": "collision/link_3.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\link_3.stl"
+    },
+    {
+      "filename": "visual/link_4.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\link_4.dae"
+    },
+    {
+      "filename": "collision/link_4.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\link_4.stl"
+    },
+    {
+      "filename": "visual/link_5.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\link_5.dae"
+    },
+    {
+      "filename": "collision/link_5.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\link_5.stl"
+    },
+    {
+      "filename": "visual/link_6.dae",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\visual\\link_6.dae"
+    },
+    {
+      "filename": "collision/link_6.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\abb\\abb_irb2400_support\\urdf\\collision\\link_6.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

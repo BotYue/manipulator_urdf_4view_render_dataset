@@ -1,0 +1,96 @@
+{
+  "robot_id": "ros-industrial/xacro_generated/universal_robots/ur_description/ur5",
+  "urdf_path": "ros-industrial/xacro_generated/universal_robots/ur_description/urdf/ur5.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/ros-industrial/xacro_generated/universal_robots/ur_description/urdf/ur5.urdf",
+  "output_dir": "images/ros-industrial/xacro_generated/universal_robots/ur_description/ur5",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/ros-industrial/xacro_generated/universal_robots/ur_description/ur5/iso.png",
+    "front": "images/ros-industrial/xacro_generated/universal_robots/ur_description/ur5/front.png",
+    "side": "images/ros-industrial/xacro_generated/universal_robots/ur_description/ur5/side.png",
+    "top": "images/ros-industrial/xacro_generated/universal_robots/ur_description/ur5/top.png"
+  },
+  "num_links": 11,
+  "num_joints": 16,
+  "num_movable_joints": 6,
+  "num_fixed_joints": 4,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 14,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 6,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/base.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\base.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\base.stl"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/shoulder.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\shoulder.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\shoulder.stl"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/upperarm.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\upperarm.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/upperarm.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\upperarm.stl"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/forearm.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\forearm.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/forearm.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\forearm.stl"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/wrist1.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\wrist1.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/wrist1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\wrist1.stl"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/wrist2.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\wrist2.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/wrist2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\wrist2.stl"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/visual/wrist3.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\visual\\wrist3.dae"
+    },
+    {
+      "filename": "package://ur_description/meshes/ur5/collision/wrist3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\universal_robots\\ur_description\\meshes\\ur5\\collision\\wrist3.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

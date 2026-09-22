@@ -1,0 +1,110 @@
+{
+  "robot_id": "drake/iiwa_description/iiwa14_polytope_collision",
+  "urdf_path": "drake/iiwa_description/urdf/iiwa14_polytope_collision.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/drake/iiwa_description/urdf/iiwa14_polytope_collision.urdf",
+  "output_dir": "images/drake/iiwa_description/iiwa14_polytope_collision",
+  "status": "ok",
+  "error": null,
+  "simulator": "PyBullet",
+  "renderer": "TinyRenderer",
+  "image_size": 1024,
+  "views": {
+    "iso": "images/drake/iiwa_description/iiwa14_polytope_collision/iso.png",
+    "front": "images/drake/iiwa_description/iiwa14_polytope_collision/front.png",
+    "side": "images/drake/iiwa_description/iiwa14_polytope_collision/side.png",
+    "top": "images/drake/iiwa_description/iiwa14_polytope_collision/top.png"
+  },
+  "num_links": 11,
+  "num_joints": 17,
+  "num_movable_joints": 7,
+  "num_fixed_joints": 3,
+  "num_revolute_joints": 7,
+  "meshes_fixed": 16,
+  "meshes_missing": 0,
+  "missing_meshes": [],
+  "extension_tags_removed": 16,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_0.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\atlas\\urdf\\meshes\\s-model_articulated\\visual\\link_0.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_1.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\atlas\\urdf\\meshes\\s-model_articulated\\visual\\link_1.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_2_orange.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_2_orange.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_2_grey.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_2_grey.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_3.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\atlas\\urdf\\meshes\\s-model_articulated\\visual\\link_3.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/kuka.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\kuka.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/band.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\band.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_4_orange.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_4_orange.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_4_grey.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_4_grey.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_5.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_5.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/kuka.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\kuka.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/band.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\band.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_6_grey.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_6_grey.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_6_orange.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_6_orange.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/visual/link_7.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\visual\\link_7.obj"
+    },
+    {
+      "filename": "package://drake/manipulation/models/iiwa_description/meshes/collision/link_7_polytope.obj",
+      "method": "package-scoped-basename",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\drake\\iiwa_description\\meshes\\collision\\link_7_polytope.obj"
+    }
+  ],
+  "used_risky_mesh_fallback": true
+}

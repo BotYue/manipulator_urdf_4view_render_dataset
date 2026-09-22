@@ -1,0 +1,61 @@
+{
+  "robot_id": "robotics-toolbox/puma560_description/puma560_robot",
+  "urdf_path": "robotics-toolbox/puma560_description/urdf/puma560_robot.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/robotics-toolbox/puma560_description/urdf/puma560_robot.urdf",
+  "output_dir": "images/robotics-toolbox/puma560_description/puma560_robot",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/robotics-toolbox/puma560_description/puma560_robot/iso.png",
+    "front": "images/robotics-toolbox/puma560_description/puma560_robot/front.png",
+    "side": "images/robotics-toolbox/puma560_description/puma560_robot/side.png",
+    "top": "images/robotics-toolbox/puma560_description/puma560_robot/top.png"
+  },
+  "num_links": 7,
+  "num_joints": 6,
+  "num_movable_joints": 6,
+  "num_fixed_joints": 0,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 7,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "meshes/puma_link1.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link1.stl"
+    },
+    {
+      "filename": "meshes/puma_link2.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link2.stl"
+    },
+    {
+      "filename": "meshes/puma_link3.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link3.stl"
+    },
+    {
+      "filename": "meshes/puma_link4.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link4.stl"
+    },
+    {
+      "filename": "meshes/puma_link5.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link5.stl"
+    },
+    {
+      "filename": "meshes/puma_link6.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link6.stl"
+    },
+    {
+      "filename": "meshes/puma_link7.stl",
+      "method": "relative-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\puma560_description\\urdf\\meshes\\puma_link7.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

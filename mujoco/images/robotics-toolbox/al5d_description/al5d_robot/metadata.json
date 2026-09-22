@@ -1,0 +1,51 @@
+{
+  "robot_id": "robotics-toolbox/al5d_description/al5d_robot",
+  "urdf_path": "robotics-toolbox/al5d_description/urdf/al5d_robot.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/robotics-toolbox/al5d_description/urdf/al5d_robot.urdf",
+  "output_dir": "images/robotics-toolbox/al5d_description/al5d_robot",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/robotics-toolbox/al5d_description/al5d_robot/iso.png",
+    "front": "images/robotics-toolbox/al5d_description/al5d_robot/front.png",
+    "side": "images/robotics-toolbox/al5d_description/al5d_robot/side.png",
+    "top": "images/robotics-toolbox/al5d_description/al5d_robot/top.png"
+  },
+  "num_links": 5,
+  "num_joints": 4,
+  "num_movable_joints": 4,
+  "num_fixed_joints": 0,
+  "num_revolute_joints": 4,
+  "meshes_fixed": 5,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://al5d_description/meshes/base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\al5d_description\\meshes\\base.stl"
+    },
+    {
+      "filename": "package://al5d_description/meshes/link1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\al5d_description\\meshes\\link1.stl"
+    },
+    {
+      "filename": "package://al5d_description/meshes/link2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\al5d_description\\meshes\\link2.stl"
+    },
+    {
+      "filename": "package://al5d_description/meshes/link3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\al5d_description\\meshes\\link3.stl"
+    },
+    {
+      "filename": "package://al5d_description/meshes/link4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\al5d_description\\meshes\\link4.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

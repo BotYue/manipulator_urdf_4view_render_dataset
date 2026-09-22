@@ -1,0 +1,96 @@
+{
+  "robot_id": "random/xacro_generated/schunk_modular_robotics/schunk_description/schunk_lwa4p_extended",
+  "urdf_path": "random/xacro_generated/schunk_modular_robotics/schunk_description/urdf/schunk_lwa4p_extended.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/random/xacro_generated/schunk_modular_robotics/schunk_description/urdf/schunk_lwa4p_extended.urdf",
+  "output_dir": "images/random/xacro_generated/schunk_modular_robotics/schunk_description/schunk_lwa4p_extended",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/random/xacro_generated/schunk_modular_robotics/schunk_description/schunk_lwa4p_extended/iso.png",
+    "front": "images/random/xacro_generated/schunk_modular_robotics/schunk_description/schunk_lwa4p_extended/front.png",
+    "side": "images/random/xacro_generated/schunk_modular_robotics/schunk_description/schunk_lwa4p_extended/side.png",
+    "top": "images/random/xacro_generated/schunk_modular_robotics/schunk_description/schunk_lwa4p_extended/top.png"
+  },
+  "num_links": 10,
+  "num_joints": 16,
+  "num_movable_joints": 7,
+  "num_fixed_joints": 2,
+  "num_revolute_joints": 7,
+  "meshes_fixed": 14,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_base_link.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_base_link.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_1_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_1_link.dae"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_1_collision.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_1_collision.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_2_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_2_link.dae"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_2_collision.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_2_collision.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_3_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_3_link.dae"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_3_collision.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_3_collision.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_4_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_4_link.dae"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_4_collision.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_4_collision.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_5_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_5_link.dae"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_5_collision.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_5_collision.stl"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_6_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_6_link.dae"
+    },
+    {
+      "filename": "package://schunk_description/meshes/lwa4p_extended/arm_6_collision.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\random\\xacro_generated\\schunk_modular_robotics\\schunk_description\\meshes\\lwa4p_extended\\arm_6_collision.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

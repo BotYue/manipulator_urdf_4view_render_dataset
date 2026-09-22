@@ -1,0 +1,96 @@
+{
+  "robot_id": "ros-industrial/xacro_generated/kuka/kuka_kr6_support/kr6r900sixx",
+  "urdf_path": "ros-industrial/xacro_generated/kuka/kuka_kr6_support/urdf/kr6r900sixx.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/ros-industrial/xacro_generated/kuka/kuka_kr6_support/urdf/kr6r900sixx.urdf",
+  "output_dir": "images/ros-industrial/xacro_generated/kuka/kuka_kr6_support/kr6r900sixx",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/ros-industrial/xacro_generated/kuka/kuka_kr6_support/kr6r900sixx/iso.png",
+    "front": "images/ros-industrial/xacro_generated/kuka/kuka_kr6_support/kr6r900sixx/front.png",
+    "side": "images/ros-industrial/xacro_generated/kuka/kuka_kr6_support/kr6r900sixx/side.png",
+    "top": "images/ros-industrial/xacro_generated/kuka/kuka_kr6_support/kr6r900sixx/top.png"
+  },
+  "num_links": 10,
+  "num_joints": 9,
+  "num_movable_joints": 6,
+  "num_fixed_joints": 3,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 14,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/visual/base_link.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\visual\\base_link.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/collision/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\collision\\base_link.stl"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/visual/link_1.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\visual\\link_1.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/collision/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\collision\\link_1.stl"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6r900sixx/visual/link_2.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6r900sixx\\visual\\link_2.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6r900sixx/collision/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6r900sixx\\collision\\link_2.stl"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/visual/link_3.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\visual\\link_3.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/collision/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\collision\\link_3.stl"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6r900sixx/visual/link_4.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6r900sixx\\visual\\link_4.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6r900sixx/collision/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6r900sixx\\collision\\link_4.stl"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/visual/link_5.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\visual\\link_5.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/collision/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\collision\\link_5.stl"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/visual/link_6.dae",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\visual\\link_6.dae"
+    },
+    {
+      "filename": "package://kuka_kr6_support/meshes/kr6_agilus/collision/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\kuka\\kuka_kr6_support\\meshes\\kr6_agilus\\collision\\link_6.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

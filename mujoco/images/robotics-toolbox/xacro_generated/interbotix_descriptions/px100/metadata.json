@@ -1,0 +1,116 @@
+{
+  "robot_id": "robotics-toolbox/xacro_generated/interbotix_descriptions/px100",
+  "urdf_path": "robotics-toolbox/xacro_generated/interbotix_descriptions/urdf/px100.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/robotics-toolbox/xacro_generated/interbotix_descriptions/urdf/px100.urdf",
+  "output_dir": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/px100",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/px100/iso.png",
+    "front": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/px100/front.png",
+    "side": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/px100/side.png",
+    "top": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/px100/top.png"
+  },
+  "num_links": 12,
+  "num_joints": 18,
+  "num_movable_joints": 7,
+  "num_fixed_joints": 4,
+  "num_revolute_joints": 4,
+  "meshes_fixed": 18,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-1-Base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-1-Base.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-1-Base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-1-Base.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-2-Shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-2-Shoulder.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-2-Shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-2-Shoulder.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-3-UA.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-3-UA.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-3-UA.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-3-UA.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-4-Forearm.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-4-Forearm.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-4-Forearm.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-4-Forearm.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-5-Wrist-Gripper.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-5-Wrist-Gripper.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-5-Wrist-Gripper.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-5-Wrist-Gripper.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-6-Gripper-Prop.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-6-Gripper-Prop.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-6-Gripper-Prop.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-6-Gripper-Prop.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-7-Gripper-Bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-7-Gripper-Bar.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-7-Gripper-Bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-7-Gripper-Bar.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-8-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-8-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-8-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-8-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-8-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-8-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_px100/PXA-100-M-8-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_px100\\PXA-100-M-8-Finger.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

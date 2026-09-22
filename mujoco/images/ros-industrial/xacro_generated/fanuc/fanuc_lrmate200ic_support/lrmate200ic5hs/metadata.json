@@ -1,0 +1,86 @@
+{
+  "robot_id": "ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/lrmate200ic5hs",
+  "urdf_path": "ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/urdf/lrmate200ic5hs.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/urdf/lrmate200ic5hs.urdf",
+  "output_dir": "images/ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/lrmate200ic5hs",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/lrmate200ic5hs/iso.png",
+    "front": "images/ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/lrmate200ic5hs/front.png",
+    "side": "images/ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/lrmate200ic5hs/side.png",
+    "top": "images/ros-industrial/xacro_generated/fanuc/fanuc_lrmate200ic_support/lrmate200ic5hs/top.png"
+  },
+  "num_links": 9,
+  "num_joints": 8,
+  "num_movable_joints": 5,
+  "num_fixed_joints": 3,
+  "num_revolute_joints": 5,
+  "meshes_fixed": 12,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/visual/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\visual\\base_link.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/collision/base_link.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\collision\\base_link.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/visual/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\visual\\link_1.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/collision/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\collision\\link_1.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/visual/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\visual\\link_2.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/collision/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\collision\\link_2.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic5h/visual/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic5h\\visual\\link_3.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic5h/collision/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic5h\\collision\\link_3.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/visual/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\visual\\link_5.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/collision/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\collision\\link_5.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/visual/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\visual\\link_6.stl"
+    },
+    {
+      "filename": "package://fanuc_lrmate200ic_support/meshes/lrmate200ic/collision/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\ros-industrial\\xacro_generated\\fanuc\\fanuc_lrmate200ic_support\\meshes\\lrmate200ic\\collision\\link_6.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

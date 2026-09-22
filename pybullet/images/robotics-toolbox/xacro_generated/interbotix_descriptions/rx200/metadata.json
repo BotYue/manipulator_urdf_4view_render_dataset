@@ -1,0 +1,130 @@
+{
+  "robot_id": "robotics-toolbox/xacro_generated/interbotix_descriptions/rx200",
+  "urdf_path": "robotics-toolbox/xacro_generated/interbotix_descriptions/urdf/rx200.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/robotics-toolbox/xacro_generated/interbotix_descriptions/urdf/rx200.urdf",
+  "output_dir": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/rx200",
+  "status": "ok",
+  "error": null,
+  "simulator": "PyBullet",
+  "renderer": "TinyRenderer",
+  "image_size": 1024,
+  "views": {
+    "iso": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/rx200/iso.png",
+    "front": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/rx200/front.png",
+    "side": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/rx200/side.png",
+    "top": "images/robotics-toolbox/xacro_generated/interbotix_descriptions/rx200/top.png"
+  },
+  "num_links": 13,
+  "num_joints": 20,
+  "num_movable_joints": 8,
+  "num_fixed_joints": 4,
+  "num_revolute_joints": 5,
+  "meshes_fixed": 20,
+  "meshes_missing": 0,
+  "missing_meshes": [],
+  "extension_tags_removed": 8,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-1-Base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-1-Base.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-1-Base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-1-Base.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-2-Shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-2-Shoulder.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-2-Shoulder.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-2-Shoulder.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-3-UA.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-3-UA.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-3-UA.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-3-UA.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-4-Forearm.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-4-Forearm.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-4-Forearm.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-4-Forearm.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-5-Wrist.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-5-Wrist.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-5-Wrist.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-5-Wrist.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-6-Gripper.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-6-Gripper.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-6-Gripper.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-6-Gripper.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-7-Gripper-Prop.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-7-Gripper-Prop.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-7-Gripper-Prop.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-7-Gripper-Prop.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-8-Gripper-Bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-8-Gripper-Bar.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-8-Gripper-Bar.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-8-Gripper-Bar.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-9-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-9-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-9-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-9-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-9-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-9-Finger.stl"
+    },
+    {
+      "filename": "package://interbotix_descriptions/meshes/meshes_rx200/RXA-200-M-9-Finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\robotics-toolbox\\xacro_generated\\interbotix_descriptions\\meshes\\meshes_rx200\\RXA-200-M-9-Finger.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

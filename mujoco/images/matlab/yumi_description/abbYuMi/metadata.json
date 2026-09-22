@@ -1,0 +1,236 @@
+{
+  "robot_id": "matlab/yumi_description/abbYuMi",
+  "urdf_path": "matlab/yumi_description/urdf/abbYuMi.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/matlab/yumi_description/urdf/abbYuMi.urdf",
+  "output_dir": "images/matlab/yumi_description/abbYuMi",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/matlab/yumi_description/abbYuMi/iso.png",
+    "front": "images/matlab/yumi_description/abbYuMi/front.png",
+    "side": "images/matlab/yumi_description/abbYuMi/side.png",
+    "top": "images/matlab/yumi_description/abbYuMi/top.png"
+  },
+  "num_links": 22,
+  "num_joints": 39,
+  "num_movable_joints": 18,
+  "num_fixed_joints": 3,
+  "num_revolute_joints": 14,
+  "meshes_fixed": 42,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://yumi_description/meshes/body.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\body.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/body.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\body.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_1.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_1.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_2.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_2.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_3.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_3.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_4.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_4.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_5.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_5.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_6.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_6.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_7.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_7.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_7.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_7.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_1.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_1.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_1.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_2.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_2.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_2.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_3.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_3.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_3.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_4.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_4.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_4.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_5.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_5.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_5.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_6.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_6.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_6.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/link_7.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\link_7.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/coarse/link_7.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\coarse\\link_7.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\base.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/coarse/base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\coarse\\base.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/coarse/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\coarse\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/coarse/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\coarse\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\base.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/coarse/base.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\coarse\\base.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/coarse/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\coarse\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\finger.stl"
+    },
+    {
+      "filename": "package://yumi_description/meshes/gripper/coarse/finger.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\yumi_description\\meshes\\gripper\\coarse\\finger.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}

@@ -1,0 +1,96 @@
+{
+  "robot_id": "matlab/motoman_mh5_support/yaskawaMotomanMH5",
+  "urdf_path": "matlab/motoman_mh5_support/urdf/yaskawaMotomanMH5.urdf",
+  "urdf_url": "https://github.com/Daniella1/urdf_files_dataset/blob/main/urdf_files/matlab/motoman_mh5_support/urdf/yaskawaMotomanMH5.urdf",
+  "output_dir": "images/matlab/motoman_mh5_support/yaskawaMotomanMH5",
+  "status": "ok",
+  "error": null,
+  "image_size": 1024,
+  "views": {
+    "iso": "images/matlab/motoman_mh5_support/yaskawaMotomanMH5/iso.png",
+    "front": "images/matlab/motoman_mh5_support/yaskawaMotomanMH5/front.png",
+    "side": "images/matlab/motoman_mh5_support/yaskawaMotomanMH5/side.png",
+    "top": "images/matlab/motoman_mh5_support/yaskawaMotomanMH5/top.png"
+  },
+  "num_links": 7,
+  "num_joints": 6,
+  "num_movable_joints": 6,
+  "num_fixed_joints": 0,
+  "num_revolute_joints": 6,
+  "meshes_fixed": 14,
+  "meshes_missing": 0,
+  "duplicate_materials_removed": 0,
+  "mesh_resolution_methods": [
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_BASE_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_BASE_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_BASE_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_BASE_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_S_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_S_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_S_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_S_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_L_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_L_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_L_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_L_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_U_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_U_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_U_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_U_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_R_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_R_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_R_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_R_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_B_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_B_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_B_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_B_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/visual/MH5_T_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\visual\\MH5_T_AXIS.stl"
+    },
+    {
+      "filename": "package://motoman_mh5_support/meshes/mh5/collision/MH5_T_AXIS.stl",
+      "method": "package-exact",
+      "resolved_path": "C:\\Users\\YC\\Downloads\\urdf_proj\\urdf_files_dataset-main\\urdf_files\\matlab\\motoman_mh5_support\\meshes\\mh5\\collision\\MH5_T_AXIS.stl"
+    }
+  ],
+  "used_risky_mesh_fallback": false
+}
